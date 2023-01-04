@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "label-car-3000",
+    "slug": "label-car-3000",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "label-car-3000"
+}
