@@ -5,7 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./img/logo-transparent.png",
+    "splash": {
+      "image": "./img/splash.png"
+    }
   },
   "name": "label-car-3000"
 }
