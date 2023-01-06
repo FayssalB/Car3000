@@ -10,7 +10,6 @@ const CarDetails = (props) => {
 
     return (
         <TouchableOpacity style={{height:vh}}>
-            <Text style={{textAlign:'center', fontSize:20, fontWeight:'bold'}}>{item.name}</Text>
             <View>
                 <Image style={styles.car} source={{ uri: item.image }} />
             </View>
